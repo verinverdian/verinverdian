@@ -10,6 +10,7 @@ Currently focusing on **web app development** that blends **aesthetic design** w
 - Frontend: HTML, CSS, JavaScript, React
 - Backend: Laravel, CodeIgniter, MySQL
 
+<!--
 ### 📊 GitHub Stats
 ![Verin's GitHub stats](https://github-readme-stats.vercel.app/api?username=verinverdian&show_icons=true&theme=radical)
 
@@ -19,7 +20,7 @@ Currently focusing on **web app development** that blends **aesthetic design** w
 ![Profile Views](https://komarev.com/ghpvc/?username=verinverdian)
 
 [![Verin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=verinverdian&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+-->
 
 <!--
 **verinverdian/verinverdian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
