@@ -1,14 +1,15 @@
-## 👋 Hi there, I’m Verin Verdian
+## 👋 Hi there, I’m Verdian
 
-💻 Frontend Developer | 🎨 UI/UX Enthusiast | 🌱 Lifelong Learner  
+🔭 I'm currently working on web-based projects that bridge **UI/UX design** and **backend engineering**
 
-### 🚀 About Me  
-I’m passionate about crafting clean, user-friendly interfaces and bringing ideas to life through code.  
-Currently focusing on **web app development** that blends **aesthetic design** with **functional performance**.  
+⚡ I’ve been building and maintaining several projects using **JavaScript**, **PHP (Laravel, CodeIgniter)**, and **MySQL**, with a growing interest in **Next.js** and **API design**.  
 
-### 🛠️ Tech Stack
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Laravel, CodeIgniter, MySQL
+💬 You can reach out for collaboration, code discussions, or UI/UX feedback. I’m always open to new ideas and problem-solving.  
+
+🔏 For open-source works, contributions are welcome as long as you keep things clean, documented, and collaborative.  
+
+❤️‍🔥 Developers build the future one commit at a time. If my projects inspire you, a ⭐ or small support means a lot!  
+
 
 <!--
 ### 📊 GitHub Stats
