@@ -1,7 +1,7 @@
-## 👋 Hi there,
+## 👋 Hello and welcome!
 
-🔭 Working on web-based projects that blend **UI/UX design** and **backend engineering**.  
-⚙️ Building with **JavaScript**, **Laravel**, and **MySQL**, currently exploring **Next.js** and **API design**.  
+🔭 I’m working on web-based projects that blend **UI/UX design** and **backend engineering**.  
+⚙️ I build with **JavaScript**, **Laravel**, and **MySQL**, while exploring **Next.js** and **API design**.  
 💬 Open for **collaboration** and **UI/UX discussions**, always up for creative problem-solving.  
 📂 Contributions are welcome.  
 💖 *One commit at a time, we build the future.*  
