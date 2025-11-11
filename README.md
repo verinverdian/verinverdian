@@ -1,11 +1,10 @@
 ## 👋 Hi there, I’m Verdian
 
-- 🔭 I'm currently working on web-based projects that bridge **UI/UX design** and **backend engineering**
-- ⚡ I’ve been building and maintaining several projects using **JavaScript**, **PHP (Laravel, CodeIgniter)**, and **MySQL**, with a growing interest in **Next.js** and **API design**.  
-- 💬 You can reach out for **collaboration**, **code discussions**, or **UI/UX feedback** — I’m always open to new ideas and problem-solving.  
-- 🔏 For **open-source works**, contributions are welcome as long as you keep things clean, documented, and collaborative.  
-- ❤️‍🔥 Developers build the future one commit at a time.  
-  If my projects inspire you, a ⭐ or small support means a lot!  
+🔭 I'm currently working on web-based projects that bridge **UI/UX design** and **backend engineering**
+⚙️ I’ve been building and maintaining several projects using **JavaScript**, **PHP (Laravel, CodeIgniter)**, and **MySQL**, with a growing interest in **Next.js** and **API design**.  
+💬 You can reach out for **collaboration**, **code discussions**, or **UI/UX feedback**. I’m always open to new ideas and problem-solving.  
+📂 For **open-source works**, contributions are welcome as long as you keep things clean, documented, and collaborative.  
+💖 Developers build the future one commit at a time. If my projects inspire you, a ⭐ or small support means a lot!  
 
 <!--
 ### 📊 GitHub Stats
