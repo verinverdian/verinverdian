@@ -1,5 +1,5 @@
 ## Hello, I’m Verin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> 
-#### 🎯 Frontend Developer focused on building clean, responsive, and user-friendly interfaces.
+#### Frontend Developer focused on building clean, responsive, and user-friendly interfaces.
 
 
 🔭 I build web-based projects that blend UI/UX design with backend engineering.  
